@@ -49,8 +49,6 @@ namespace PrimerParcial
 
             Thread.Sleep(1000);
 
-            Thread.Sleep(1000);
-
             if (ventasList.Sum() > 1000000)
             {
                 Console.WriteLine("te ganaste un bono de 100 lucas");
